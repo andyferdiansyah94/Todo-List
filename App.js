@@ -7,7 +7,7 @@ import { AboutScreen, TaskCompletedScreen, TaskScreen } from "./screens";
 
 const Tab = createBottomTabNavigator();
 const Stack = createNativeStackNavigator();
-// tes push adapdadapdadp
+// tes push wkwwkwkwkwkwwkwk
 const BottomNavigator = () => {
   return (
     <Tab.Navigator
